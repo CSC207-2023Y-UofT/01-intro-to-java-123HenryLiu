@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 import java.io.*;
 
-public class BasicsTest {
+public class rBasicsTest {
     @Before
     public void setUp() {
     }
